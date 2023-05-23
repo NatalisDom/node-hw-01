@@ -14,13 +14,12 @@ Node.js modular system.
 Додаємо контакт.
 
 [add contact](https://prnt.sc/mEI0bVGt_Wzw)
-[list after changes](https://prnt.sc/Pud-yY_8nSEi)
 
 4. We delete the contact.
 Видаляємо контакт.
 
 [delete contact](https://prnt.sc/bqMpXVcjVJL4)
-[list after changes](https://prnt.sc/9LNVa3yV7jkl)
+
 
 
 
